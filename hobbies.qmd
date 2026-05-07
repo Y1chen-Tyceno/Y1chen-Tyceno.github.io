@@ -1,0 +1,23 @@
+---
+title: "hobbies"
+format: html
+---
+## My Hobbies
+
+### Music
+
+I like listening to music when I study or relax, especially hip-hop music. 
+I like it because I can directly feel the emotion of rapper and I can totally 
+emerge myself into it. I also make rap songs in my spare time and I released a few songs so far.
+
+### Basketball
+
+I enjoy playing basketball because it helps me strengthen my body and spend time with friends. I was 
+in the team of ICB in my freshman and sophomore year in China.
+![Basketball](basketball.jpg)
+
+### Traveling
+
+I enjoy traveling because it helps me learn about different cultures and see new places. 
+It also gives me a chance to relax and take photos. I have traveled to many countries such
+as Japan, Spain and Germany.
